@@ -107,7 +107,7 @@ Additionally, I'm dedicated to equipping users with the skills they need to tack
   </a>-->
 </p>
 
-**Yonisbel/Yonisbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Yonisbel/Yonisbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
